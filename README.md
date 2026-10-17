@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🧼 DRS-CleanDrop
 
 > Minimalist & Autonomous Terminal File Sanitizer for Linux.
@@ -35,4 +35,3 @@ Desarrollado por los líderes de DRS Group:
     Nova
 
 Diseñado y probado en Linux Mint.
-EOF
